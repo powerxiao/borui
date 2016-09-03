@@ -436,4 +436,9 @@ $(document).ready(function(){
 		$(this).attr({"src":nullimg})
 	}
 	})
+	$(".smallECode").hover(function(){
+		$(".bigECode").show();
+	},function(){
+$(".bigECode").hide();
+	})
 })

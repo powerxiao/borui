@@ -15,7 +15,7 @@
 .main_box .m_left ul{ margin:10px;}
 .main_box .m_left li{ margin:5px 0 0; line-height:35px;}
 .main_box .m_left li a{ display:block; background:url(../images/about_19.jpg) 265px center no-repeat; padding:0 0 0 15px; border:1px solid #fbfbfb;}
-.main_box .m_left li a:hover,.main_box .m_left li.on a{ background-image:url(../images/about_24.jpg); border:1px solid #a48561; color:#a48561;}
+.main_box .m_left li a:hover,.main_box .m_left li.on a{ background-image:url(../images/about_24.jpg); border:1px solid #A0080A; color:#000;}
 .main_box .m_right{ float:right; width:73%; overflow:hidden;}
 .main_box .m_right .r_title{ border-bottom:1px solid #d9d9d9; position:relative;  height:50px; margin-bottom:20px;}
 .main_box .m_right .r_title span{ position:absolute; border-bottom:3px solid #231815; font-size:24px; font-weight:bold; height:48px; display:inline-block; padding-right:20px;}
